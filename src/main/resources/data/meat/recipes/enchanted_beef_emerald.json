@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:emerald_block"
+      },
+      "X": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "result": {
+      "item": "meat:enchanted_beef_emerald"
+    }
+}

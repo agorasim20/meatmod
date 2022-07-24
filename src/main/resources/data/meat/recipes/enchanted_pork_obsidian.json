@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "meat:pork_obsidian"
+      }
+    },
+    "result": {
+      "item": "meat:enchanted_pork_obsidian"
+    }
+  }

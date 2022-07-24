@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diamond_block"
+      },
+      "X": {
+        "item": "minecraft:cooked_porkchop"
+      }
+    },
+    "result": {
+      "item": "meat:enchanted_pork_diamond"
+    }
+}

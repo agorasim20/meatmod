@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "meat",
+  "version": "${version}",
+
+  "name": "Meat Mod",
+  "description": "Adds special meat!",
+  "authors": [
+    "agorasim_20"
+  ],
+
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/meat/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.agorasim.meat.MeatMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

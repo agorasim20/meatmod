@@ -1,0 +1,47 @@
+{
+    "item.meat.beef_iron" : "Iron Steak",
+    "item.meat.beef_gold" : "Golden Steak",
+    "item.meat.beef_emerald" : "Emerald Steak",
+    "item.meat.beef_lapis" : "Lapis Steak",
+    "item.meat.beef_diamond" : "Diamond Steak",
+    "item.meat.beef_obsidian" : "Obsidian Steak",
+    "item.meat.beef_coal" : "Coal Steak",
+    "item.meat.beef_copper" : "Copper Steak",
+    "item.meat.beef_netherite" : "Netherite Steak",
+
+    "item.meat.enchanted_beef_iron" : "Enchanted Iron Steak",
+    "item.meat.enchanted_beef_gold" : "Enchanted Golden Steak",
+    "item.meat.enchanted_beef_emerald" : "Enchanted Emerald Steak",
+    "item.meat.enchanted_beef_lapis" : "Enchanted Lapis Steak",
+    "item.meat.enchanted_beef_diamond" : "Enchanted Diamond Steak",
+    "item.meat.enchanted_beef_obsidian" : "Enchanted Obsidian Steak",
+    "item.meat.enchanted_beef_coal" : "Enchanted Coal Steak",
+    "item.meat.enchanted_beef_copper" : "Enchanted Copper Steak",
+    "item.meat.enchanted_beef_netherite" : "Enchanted Netherite Steak",
+
+
+    "item.meat.pork_iron" : "Iron Porkchop",
+    "item.meat.pork_gold" : "Golden Porkchop",
+    "item.meat.pork_emerald" : "Emerald Porkchop",
+    "item.meat.pork_lapis" : "Lapis Porkchop",
+    "item.meat.pork_diamond" : "Diamond Porkchop",
+    "item.meat.pork_obsidian" : "Obsidian Porkchop",
+    "item.meat.pork_coal" : "Coal Porkchop",
+    "item.meat.pork_copper" : "Copper Porkchop",
+    "item.meat.pork_netherite" : "Netherite Porkchop",
+
+    "item.meat.enchanted_pork_iron" : "Enchanted Iron Porkchop",
+    "item.meat.enchanted_pork_gold" : "Enchanted Golden Porkchop",
+    "item.meat.enchanted_pork_emerald" : "Enchanted Emerald Porkchop",
+    "item.meat.enchanted_pork_lapis" : "Enchanted Lapis Porkchop",
+    "item.meat.enchanted_pork_diamond" : "Enchanted Diamond Porkchop",
+    "item.meat.enchanted_pork_obsidian" : "Enchanted Obsidian Porkchop",
+    "item.meat.enchanted_pork_coal" : "Enchanted Coal Porkchop",
+    "item.meat.enchanted_pork_copper" : "Enchanted Copper Porkchop",
+    "item.meat.enchanted_pork_netherite" : "Enchanted Netherite Porkchop",
+
+    "itemGroup.meat.general" : "Meat Mod Tab",
+
+    "advancements.nether.coal_beef.title" : "Too Much Coal",
+    "advancements.nether.coal_beef.description" : "Craft a... where did you get so much coal?"
+}
